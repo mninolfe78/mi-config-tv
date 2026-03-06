@@ -1,20 +1,26 @@
-[
-  {
-    "name": "Netflix",
-    "scheme": "nflx://",
-    "hexColor": "#E30A14",
-    "iconUrl": "https://icon.horse/icon/netflix.com"
-  },
-  {
-    "name": "HBO Max",
-    "scheme": "hbomax://",
-    "hexColor": "#4C0080",
-    "iconUrl": "https://icon.horse/icon/hbomax.com"
-  },
-  {
-    "name": "Disney+",
-    "scheme": "disneyplus://",
-    "hexColor": "#000066",
-    "iconUrl": "https://icon.horse/icon/disneyplus.com"
+{
+  "platforms": [
+    {
+      "name": "Netflix",
+      "scheme": "nflx://",
+      "hexColor": "#E30A14",
+      "iconUrl": "https://icon.horse/icon/netflix.com"
+    },
+    {
+      "name": "HBO Max",
+      "scheme": "hbomax://",
+      "hexColor": "#4C0080",
+      "iconUrl": "https://icon.horse/icon/hbomax.com"
+    }
+  ],
+  "dailyReleases": {
+    "movies": [
+      { "title": "Pelicula de Estreno 1", "image": "URL_IMAGEN" },
+      { "title": "Pelicula de Estreno 2", "image": "URL_IMAGEN" }
+    ],
+    "series": [
+      { "title": "Capítulo Estreno Serie A", "image": "URL_IMAGEN" },
+      { "title": "Capítulo Estreno Serie B", "image": "URL_IMAGEN" }
+    ]
   }
-]
+}
