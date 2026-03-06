@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Netflix",
+    "scheme": "nflx://",
+    "hexColor": "#E30A14",
+    "iconUrl": "https://icon.horse/icon/netflix.com"
+  },
+  {
+    "name": "HBO Max",
+    "scheme": "hbomax://",
+    "hexColor": "#4C0080",
+    "iconUrl": "https://icon.horse/icon/hbomax.com"
+  },
+  {
+    "name": "Disney+",
+    "scheme": "disneyplus://",
+    "hexColor": "#000066",
+    "iconUrl": "https://icon.horse/icon/disneyplus.com"
+  }
+]
