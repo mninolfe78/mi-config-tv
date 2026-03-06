@@ -5,12 +5,6 @@
       "scheme": "nflx://",
       "hexColor": "#E30A14",
       "iconUrl": "https://icon.horse/icon/netflix.com"
-    },
-    {
-      "name": "HBO Max",
-      "scheme": "hbomax://",
-      "hexColor": "#4C0080",
-      "iconUrl": "https://icon.horse/icon/hbomax.com"
     }
   ],
   "dailyReleases": {
