@@ -21,10 +21,20 @@
   ],
   "dailyReleases": {
     "movies": [
-      { "title": "Película Hub 1", "image": "https://image.tmdb.org/t/p/w500/1pdfST9vY97RUnub6Sqi9Ab9Eqp.jpg" }
+      {
+        "title": "Gladiator II",
+        "image": "https://image.tmdb.org/t/p/w500/m6997p67S6v9Y89r268T9vX89mS.jpg"
+      },
+      {
+        "title": "Moana 2",
+        "image": "https://image.tmdb.org/t/p/w500/m0S97p67S6v9Y89r268T9vX89mS.jpg"
+      }
     ],
     "series": [
-      { "title": "Serie Hub 1", "image": "https://image.tmdb.org/t/p/w500/u3YvHq7ZbgXv3pZub0v93N9S_4t.jpg" }
+      {
+        "title": "The Last of Us S2",
+        "image": "https://image.tmdb.org/t/p/w500/u3YvHq7ZbgXv3pZub0v93N9S_4t.jpg"
+      }
     ]
   }
 }
